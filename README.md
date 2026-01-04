@@ -2,6 +2,12 @@
 
 I'm a developer who enjoys building practical tools and utilities across different domains.
 
+### 👨‍💻 My Journey
+
+My development journey started in 2016 creating C# plugins for the game Unturned. From those early modding days, I expanded into desktop applications and gradually explored new languages—picking up Python for its versatility, then falling in love with Rust's performance and safety guarantees.
+
+Over the years, I've built up expertise in source control, hosting, networking, and DevOps practices. Most of the practical tools I maintain today have been developed in the past 12-16 months, reflecting my evolution into a near full-stack developer.
+
 ### 🔧 What I Work On
 
 - **Developer Tools**: Creating utilities to streamline workflows and solve common problems
