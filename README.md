@@ -4,9 +4,9 @@ I'm a developer who enjoys building practical tools and utilities across differe
 
 ### 👨‍💻 My Journey
 
-My development journey started in 2016 creating C# plugins for the game Unturned. From those early modding days, I expanded into desktop applications and gradually explored new languages, picking up Python for its versatility, then falling in love with Rust's performance and safety guarantees. I spent two years studying Game Design in University, before ending up where I am now; A first-year University student in Artificial Intelligence.
+My development journey started in 2016 creating C# plugins for the game Unturned. From those early modding days, I expanded into desktop applications and gradually explored new languages, picking up Python, then finally settling with Rust. I spent two years studying Game Design in University, before ending up where I am now; A first-year University student in Artificial Intelligence.
 
-Over the years, I've built up expertise in source control, hosting, networking, and DevOps practices. Most of the practical tools I maintain today have been developed in the past two years, reflecting my evolution into a near full-stack developer.
+Over the years, I've built up experience in source control, hosting, networking, and DevOps practices. Most of the practical tools I maintain today have been developed in the past two years, reflecting my evolution into a near full-stack developer.
 
 ### 🔧 What I Work On
 
