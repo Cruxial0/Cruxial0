@@ -2,13 +2,13 @@
 
 I'm a developer who enjoys building practical tools and utilities across different domains. Committed to making lightweight and practical tools with minimal bloat.
 
-### 👨‍💻 My Journey
+### My Journey
 
 My development journey started in 2016 creating C# plugins for the game Unturned. From those early modding days, I expanded into desktop applications and gradually explored new languages, picking up Python, then finally settling with Rust. I spent two years studying Game Design in University, before ending up where I am now; A first-year University student in Artificial Intelligence.
 
 Over the years, I've built up experience in source control, hosting, networking, and DevOps practices. Most of the practical tools I maintain today have been developed in the past two years, reflecting my evolution into a near full-stack developer.
 
-### 🔧 What I Work On
+### What I Work On
 
 - **Developer Tools**: Creating utilities to streamline workflows and solve common problems
 - **Data Processing**: Tools for dataset classification and data collection
@@ -16,7 +16,7 @@ Over the years, I've built up experience in source control, hosting, networking,
 - **Game Development**: Unity games and utilities
 - **Various smaller projects**: Small pieces of technology that interest me
 
-### 💻 Technologies & Languages
+### Technologies & Languages
 
 **Languages**
 
@@ -55,9 +55,9 @@ Over the years, I've built up experience in source control, hosting, networking,
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![Bevy](https://img.shields.io/badge/-Bevy-232326?style=flat&logo=bevy&logoColor=white)
 
-### 📂 Featured Projects
+### Featured Projects
 
-- **[DatasetClassifier](https://github.com/Cruxial0/DatasetClassifier)** - A tool to speed up manual dataset curation
-- **[local-w2g](https://github.com/Cruxial0/local-w2g)** - A simple ultra-light & self-hostable Watch2Gether service
-- **[context-weaver](https://github.com/Cruxial0/context-weaver)** - A procedural text evaluation engine (WIP)
+- **[DatasetClassifier](https://github.com/crux-03/DatasetClassifier)** - A tool to speed up manual dataset curation
+- **[local-w2g](https://github.com/crux-03/local-w2g)** - A simple ultra-light & self-hostable Watch2Gether service
+- **[weaver_lang](https://github.com/crux-03/weaver_lang)** - A macro/small programming language built for creating dynamic text-based systems
 - *Something big in the works... 🤫*
